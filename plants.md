@@ -1,7 +1,7 @@
 
 ## Osmunda cinnamomea
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinnamon_Fern_Osmunda_cinnamomea_Plant_2000px.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinnamon_Fern_Osmunda_cinnamomea_Plant_2000px.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg' width='200' height='200'/> 
 ## Osmunda regalis
 
 | <img src='https://upload.wikimedia.org/wikipedia/commons/c/c6/D%C5%82ugosz_kr%C3%B3lewski_Osmunda_regalis.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/c/c5/D%C5%82ugosz_kr%C3%B3lewski_Osmunda_regalis_zbli%C5%BCenie.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Illustration_Osmunda_regalis0.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bb/OFH-006_Flowering_Fern.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/1/1b/OFH-020_Osmunda_regalis_spore_cases.png' width='200' height='200'/> 
@@ -55,13 +55,13 @@
 | <img src='https://upload.wikimedia.org/wikipedia/commons/3/34/Viburnum_nudum.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/db/Viburnum_nudum_flowers.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/1/1c/Viburnum_nudum_flowers_8601.JPG' width='200' height='200'/> 
 ## Yucca aloifolia
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/3/37/Pachycereus_marginatus_1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/7/75/Yucca_aloifolia0.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/c/c9/Yucca_aloifolia_1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/4/49/Yucca_aloifolia_2.jpg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/3/37/Pachycereus_marginatus_1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/7/75/Yucca_aloifolia0.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/c/c9/Yucca_aloifolia_1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/4/49/Yucca_aloifolia_2.jpg' width='200' height='200'/> 
 ## Sagittaria graminea
 
 
 ## Allium canadense
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/2/21/Allium_canadense.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/60/Allium_canadense_drawing.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/1/14/Allium_canadense_mobilense_drawing.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/4/4b/Allium_canadense_seeds.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/2/21/Allium_canadense.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/60/Allium_canadense_drawing.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/1/14/Allium_canadense_mobilense_drawing.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/4/4b/Allium_canadense_seeds.jpg' width='200' height='200'/> 
 ## Liquidambar styraciflua
 
 | <img src='https://upload.wikimedia.org/wikipedia/commons/b/be/AmericanSweetgumAutumnLeaves.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/66/American_Sweetgum_Liquidambar_styraciflua_%27Worplesdon%27_Fruit_1200px.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/3/33/American_Sweetgum_Liquidambar_styraciflua_%27Worplesdon%27_Trunk_2000px.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/American_Sweetgum_Liquidambar_styraciflua_Bark_Horizontal.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/0/04/American_Sweetgum_Liquidambar_styraciflua_Fruit_1800px.jpg' width='200' height='200'/> 
@@ -124,7 +124,7 @@
 
 ## Hydrocotyle verticillata
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/c/cd/Hydrocotyle_verticillata_%28aka%29.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/3/3d/Hydrocotyle_verticillata_var_triradiata1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Hydrocotyle_verticillata_var_triradiata2.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/0/04/Starr_980601-1501_Hydrocotyle_verticillata.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/c/cd/Hydrocotyle_verticillata_%28aka%29.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/3/3d/Hydrocotyle_verticillata_var_triradiata1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Hydrocotyle_verticillata_var_triradiata2.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/0/04/Starr_980601-1501_Hydrocotyle_verticillata.jpg' width='200' height='200'/> 
 ## Oxypolis filiformis
 
 
@@ -268,7 +268,7 @@
 
 ## Erigeron strigosus
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/a/a9/Erigeron-strigosus01.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/a/a9/Erigeron-strigosus01.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg' width='200' height='200'/> 
 ## Erigeron vernus
 
 | <img src='https://upload.wikimedia.org/wikipedia/commons/d/da/Erigeron-vernus01.jpg' width='200' height='200'/> 
@@ -304,7 +304,7 @@
 
 ## Hieracium gronovii
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/6e/Hieracium-gronovii03.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/6e/Hieracium-gronovii03.jpg' width='200' height='200'/> 
 ## Hieracium megacephalon
 
 
@@ -343,7 +343,7 @@
 
 ## Pluchea odorata
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/5/5a/Pluchea_odorata.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/5/5a/Pluchea_odorata.jpg' width='200' height='200'/> 
 ## Pluchea rosea
 
 
@@ -370,7 +370,7 @@
 | <img src='https://upload.wikimedia.org/wikipedia/commons/4/42/Solidago_odora01.jpg' width='200' height='200'/> 
 ## Solidago stricta
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Rural_Hours_-_Willow_Leaved_Golden_Rod.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/64/Solidago_stricta01.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/3/39/Solidago_stricta_1.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Rural_Hours_-_Willow_Leaved_Golden_Rod.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/64/Solidago_stricta01.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/3/39/Solidago_stricta_1.JPG' width='200' height='200'/> 
 ## Solidago tortifolia
 
 | <img src='https://upload.wikimedia.org/wikipedia/commons/c/cc/Solidago_tortifolia01.jpg' width='200' height='200'/> 
@@ -385,7 +385,7 @@
 
 ## Symphyotrichum dumosum
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/7/70/Aster-dumosus.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/8c/Quality_images_logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/b/b1/Symphyotrichum_dumosum_01.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d7/Valued_image_seal.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/7/70/Aster-dumosus.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/8c/Quality_images_logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/b/b1/Symphyotrichum_dumosum_01.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d7/Valued_image_seal.svg' width='200' height='200'/> 
 ## Symphyotrichum walteri
 
 
@@ -397,7 +397,7 @@
 
 ## Youngia japonica
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Commons-logo-2.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/5/59/Gnome-emblem-photos.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Youngia_japonica.JPG' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/e/e9/Commons-logo-2.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/5/59/Gnome-emblem-photos.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Youngia_japonica.JPG' width='200' height='200'/> 
 ## common. Winter
 
 
@@ -424,10 +424,10 @@
 
 ## Triodanis perfoliata
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/6b/Specularia_perfoliata_1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/e/e0/Specularia_perfoliata_2.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Specularia_perfoliata_3.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/6b/Specularia_perfoliata_1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/e/e0/Specularia_perfoliata_2.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Specularia_perfoliata_3.jpg' width='200' height='200'/> 
 ## Wahlenbergia marginata
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/1/14/Starr_020310-9001_Wahlenbergia_marginata.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/1/14/Starr_020310-9001_Wahlenbergia_marginata.jpg' width='200' height='200'/> 
 ## Canna flaccida
 
 
@@ -481,7 +481,7 @@
 
 ## Hypericum crux-andreae
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/8/86/Hypericum_crux-andreae.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/8c/Hypericum_crux-andreae_US-dist-map.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/66/Hypericum_crux-andreae_illustration_1.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/6e/Hypericum_crux-andreae_illustration_2.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/8/86/Hypericum_crux-andreae.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/8c/Hypericum_crux-andreae_US-dist-map.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/66/Hypericum_crux-andreae_illustration_1.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/6e/Hypericum_crux-andreae_illustration_2.svg' width='200' height='200'/> 
 ## Hypericum gentianoides
 
 
@@ -490,7 +490,7 @@
 
 ## Hypericum mutilum
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Starr_020803-0005_Hypericum_mutilum.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Starr_020803-0005_Hypericum_mutilum.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
 ## Hypericum myrtifolium
 
 
@@ -541,7 +541,7 @@
 | <img src='https://upload.wikimedia.org/wikipedia/commons/5/58/Benthamidia_florida1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/a/a1/Benthamidia_florida10.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/c/c9/Benthamidia_florida11.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/e/ea/Benthamidia_florida12.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/3/37/Benthamidia_florida13.jpg' width='200' height='200'/> 
 ## Nyssa sylvatica
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/5/5a/2014-11-02_12_47_05_Black_Tupelo_during_autumn_at_The_College_of_New_Jersey_in_Ewing%2C_New_Jersey.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Nyssa_sylvatica_range_map.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/5/5a/2014-11-02_12_47_05_Black_Tupelo_during_autumn_at_The_College_of_New_Jersey_in_Ewing%2C_New_Jersey.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Nyssa_sylvatica_range_map.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> 
 ## Melothria pendula
 
 
@@ -646,7 +646,7 @@
 
 ## Drosera brevifolia
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/5/5a/Drosera_brevifolia_1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/60/Drosera_brevifolia_2.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/5/5a/Drosera_brevifolia_1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/60/Drosera_brevifolia_2.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
 ## Diospyros virginiana
 
 | <img src='https://upload.wikimedia.org/wikipedia/commons/6/6f/87_Florida_Jay.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d7/American_Persimmon_%28Diospyros_virginiana%29.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/6/6e/Aphelocoma_coerulescens_%26_Diospyros_virginiana_%28Audibon%29.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Aphelocoma_coerulescens_-_Florida_Jay._1._Male._2._Female._%28Persimontree._Diospyros_virginiana.%29_%281840-1844%29.jpeg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/5/59/Diospyros_virginia_%28Ebenaceae%29_%28leaves%29.JPG' width='200' height='200'/> 
@@ -754,7 +754,7 @@
 | <img src='https://upload.wikimedia.org/wikipedia/commons/9/96/2019-06-23_13_32_14_Mimosa-Silk_Tree_%27Summer_Chocolate%27_leaves_and_flowers_along_Applegrove_Court_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/0/09/Albiz.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fd/Albiza_julibrissin0.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/9/9c/Albiza_julibrissin1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/5/5a/Albiza_julibrissin3.jpg' width='200' height='200'/> 
 ## Baptisia alba
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/8/8c/Quality_images_logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/0/07/White_Wild_Indigo_Baptisia_alba_Young_Flowerhead_2000px.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/9/90/White_Wild_Indigo_Baptisia_alba_Young_Flowerhead_Closeup_2000px.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/8/8c/Quality_images_logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/0/07/White_Wild_Indigo_Baptisia_alba_Young_Flowerhead_2000px.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/9/90/White_Wild_Indigo_Baptisia_alba_Young_Flowerhead_Closeup_2000px.jpg' width='200' height='200'/> 
 ## Centrosema virginianum
 
 | <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Centrosema_virginianum.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d7/Valued_image_seal.svg' width='200' height='200'/> 
@@ -763,7 +763,7 @@
 | <img src='https://upload.wikimedia.org/wikipedia/commons/e/ee/American_Eastern_Redbud_Tree_%28Cercis_canadensis%29.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/f8/Cercis_canadensis.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/7/7a/Cercis_canadensis_blossom_buds.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/5/58/Cercis_canadensis_flower_buds_-_ready_to_pop_P.2005.04.04.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/1/11/Distribution.cercis.canadensis.png' width='200' height='200'/> 
 ## Chamaecrista fasciculata
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/7/78/Chamaecrista_fasciculata_Taub89a.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/7/78/Chamaecrista_fasciculata_Taub89a.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
 ## Chamaecrista nictitans
 
 | <img src='https://upload.wikimedia.org/wikipedia/commons/e/ec/Starr_040120-0210_Chamaecrista_nictitans.jpg' width='200' height='200'/> 
@@ -772,7 +772,7 @@
 
 ## Crotalaria pallida
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/c/cd/Crotalaria_pallida_1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/4/4f/Starr_040118-8002_Crotalaria_pallida.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/c/cd/Crotalaria_pallida_1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/4/4f/Starr_040118-8002_Crotalaria_pallida.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
 ## Crotalaria rotundifolia
 
 
@@ -844,7 +844,7 @@
 
 ## Mimosa strigillosa
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/%27Powderpuff%27_Mimosa_strigillosa.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/4/4a/Crystal_River_mimosa01.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/b/b5/Crystal_River_mimosa02.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/e/ed/Crystal_River_mimosa_sign01.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/%27Powderpuff%27_Mimosa_strigillosa.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/4/4a/Crystal_River_mimosa01.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/b/b5/Crystal_River_mimosa02.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/e/ed/Crystal_River_mimosa_sign01.jpg' width='200' height='200'/> 
 ## Pediomelum canescens
 
 
@@ -904,7 +904,7 @@
 
 ## Quercus minima
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/f/f9/Quercus_minima_1.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/f/f9/Quercus_minima_1.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
 ## Quercus myrtifolia
 
 
@@ -946,7 +946,7 @@
 
 ## Sisyrinchium angustifolium
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Farm-Fresh_www_page.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Maysmallpurpleflower.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Sisyrinchium-angustifolium.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/8f/Sisyrinchium_angustifolium%2C_by_Mary_Vaux_Walcott.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Farm-Fresh_www_page.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Maysmallpurpleflower.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Sisyrinchium-angustifolium.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/8f/Sisyrinchium_angustifolium%2C_by_Mary_Vaux_Walcott.jpg' width='200' height='200'/> 
 ## Sisyrinchium rosulatum
 
 
@@ -1000,10 +1000,10 @@
 
 ## Salvia azurea
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/63/Salvia_azurea1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/2/20/Salvia_azurea2.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/63/Salvia_azurea1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/2/20/Salvia_azurea2.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
 ## Salvia lyrata
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/c/c5/Salvia_lyrata_USDA.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/c/c5/Salvia_lyrata_USDA.jpg' width='200' height='200'/> 
 ## Scutellaria integrifolia
 
 
@@ -1090,7 +1090,7 @@
 
 ## Ludwigia decurrens
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/1/16/Ludwigia_decurrens%28HiretaGobou%29.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/1/16/Ludwigia_decurrens%28HiretaGobou%29.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
 ## Ludwigia erecta
 
 
@@ -1120,7 +1120,7 @@
 | <img src='https://upload.wikimedia.org/wikipedia/commons/6/64/Aquatic_and_wetland_plants_of_southwestern_United_States_%281972%29_%2819754614111%29.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Farm-Fresh_www_page.png' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/a/aa/GreenGlobe.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/e/ec/Ladies%27_Tresses%2C_NPSPhoto%2C_S.Zenner_%289102084138%29.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/3/31/Ladies%27_Tresses%2C_NPSPhoto%2C_S.Zenner_%289102084138%29_-_cropped.jpg' width='200' height='200'/> 
 ## Agalinis fasciculata
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/c/c9/Agalinis_fasciculata.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/c/c9/Agalinis_fasciculata.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
 ## Agalinis filifolia
 
 
@@ -1129,7 +1129,7 @@
 
 ## Agalinis purpurea
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/7/7b/Agalinis_purpurea_-_Purple_False_Foxglove.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/7/7b/Agalinis_purpurea_-_Purple_False_Foxglove.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg' width='200' height='200'/> 
 ## Aureolaria pedicularia
 
 
@@ -1174,7 +1174,7 @@
 
 ## Linaria canadensis
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/f7/Toadflax-166f.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/f7/Toadflax-166f.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg' width='200' height='200'/> 
 ## Linaria floridana
 
 
@@ -1423,7 +1423,7 @@
 | <img src='https://upload.wikimedia.org/wikipedia/commons/8/8b/Pontederia_cordata.JPG' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Pontederia_cordata00.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/a/a4/Pontederia_cordata01.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/e/e8/Pontederia_cordata1.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Pontederia_cordata2.jpg' width='200' height='200'/> 
 ## Portulaca amilis
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/2/21/Portulaca_amilis.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d7/Valued_image_seal.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/2/21/Portulaca_amilis.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d7/Valued_image_seal.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
 ## Berchemia scandens
 
 
@@ -1444,7 +1444,7 @@
 
 ## Rubus argutus
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Starr_010423-0032_Rubus_argutus.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Starr_010423-0032_Rubus_argutus.jpg' width='200' height='200'/> 
 ## Rubus cuneifolius
 
 
@@ -1525,7 +1525,7 @@
 
 ## Solanum americanum
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/f/f4/Starr_010520-0074_Solanum_americanum.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/f/f4/Starr_010520-0074_Solanum_americanum.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg' width='200' height='200'/> 
 ## Polypremum procumbens
 
 | <img src='https://upload.wikimedia.org/wikipedia/commons/1/1e/Polypremum_procumbens%2C_white.jpg' width='200' height='200'/> 
@@ -1576,7 +1576,7 @@
 
 ## Vitis aestivalis
 
-| <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/9/97/Vitis_aestivalis_%28USDA%29.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/d/d2/Wikidata-logo-without-paddings.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg' width='200' height='200'/> 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Blue_pencil.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/9/97/Vitis_aestivalis_%28USDA%29.jpg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg' width='200' height='200'/> | <img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg' width='200' height='200'/> 
 ## Vitis rotundifolia
 
 | <img src='https://upload.wikimedia.org/wikipedia/commons/8/8b/Vitis_rotundifolia.jpg' width='200' height='200'/> 
