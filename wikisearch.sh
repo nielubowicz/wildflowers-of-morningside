@@ -16,14 +16,16 @@ curl -s "https://commons.wikimedia.org/w/api.php?action=query&generator=images&p
 for imagename in ${PLANTS[@]} 
 do
 	echo "| <img src='${imagename}' width='200' height='200'/>" >> temp
-	#echo "| ![$1](${imagename})" >> temp
 done
 
 if [[ -n $temp ]]; then
-  echo " |\n" >> temp
+  echo " |" >> temp
+  echo >> temp
 fi
 
-echo "\n## $1\n" >> $OUTPUT
+echo >> $OUTPUT
+echo "## $1" >> $OUTPUT
+echo >> $OUTPUT
 cat temp | tr '\n' ' ' >> $OUTPUT
 
 rm temp
